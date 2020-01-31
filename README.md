@@ -11,3 +11,9 @@
     * [Lecture notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%202:%20Introduction%20to%20Linux,%20Vim%20and%20Tmux/Lecture%20notes.html)
     
     * [Assignment](https://docs.google.com/document/d/1eoKswixrc9RRyy-roJITxaQPoWZMWNvzj5rt2zkKGxI/edit?usp=sharing)
+
+3. Introduction to Git and Regex [30th January, 2020]
+
+    * [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%203:%20Introduction%20to%20Git%20and%20Regex/Lecture%20notes.html)
+
+    * [Assignment](https://docs.google.com/document/d/1cy2Isc-XaaYAdopsS4zMCNhLyBLpUKynsSORl3Jx4gI/edit?usp=sharing)
