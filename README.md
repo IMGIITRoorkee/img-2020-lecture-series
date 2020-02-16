@@ -23,3 +23,9 @@
    - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%204:%20Introduction%20to%20JavaScript/Lecture%20notes.html)
 
    - [Assignment](https://docs.google.com/document/d/1-LY-rbIfNNNHC-MdXCWPJSeN9I5QFeG53T4gsKfS1II/edit?usp=sharing)
+
+5. Introduction to Design tools [11th February, 2020]
+
+   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%205:%20Introduction%20to%20Design%20Tools/Lecture%20notes.pdf)
+
+   - [Assignment](https://docs.google.com/presentation/d/1rV_Sv7afWwGYFwVuhxZbrNPR3X7Eh96vVlEXrb8QFT0/edit?usp=sharing)
