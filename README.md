@@ -29,3 +29,9 @@
    - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%205:%20Introduction%20to%20Design%20Tools/Lecture%20notes.pdf)
 
    - [Assignment](https://docs.google.com/presentation/d/1rV_Sv7afWwGYFwVuhxZbrNPR3X7Eh96vVlEXrb8QFT0/edit?usp=sharing)
+
+6. Introduction to PHP [21st March, 2020]
+
+   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%208:%20Introduction%20to%20PHP/Lecture%20notes.html)
+
+   - [Assignment](https://docs.google.com/document/d/1gOpzJXjw3umbQWlO2QF7QgCdvX1smBH94Z-dE_C-ftM/edit?usp=sharing)
