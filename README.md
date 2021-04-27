@@ -18,20 +18,26 @@
 
    - [Assignment](https://docs.google.com/document/d/1-mnOuK5L3xEIak5xZXAExNOLHzC0G7aY1vilFstwcng/edit)
 
-3. Introduction to Linux, Vim and Tmux [28th January, 2020]
+3. Introduction to Linux, Vim and Tmux [18th April, 2021]
 
    - [Lecture notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%203:%20Introduction%20to%20Linux,%20Vim%20and%20Tmux/Lecture%20notes.html)
 
-   - [Assignment](https://docs.google.com/document/d/1eoKswixrc9RRyy-roJITxaQPoWZMWNvzj5rt2zkKGxI/edit?usp=sharing)
+   - [Assignment](https://docs.google.com/document/d/1a8GD3n4r_cJmzc1vrZHMnayYULbiW-jv/edit)
 
-4. Introduction to Design tools [11th February, 2020]
+4. Introduction to Design Process and Thinking [27th April, 2021]
 
-   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%204:%20Introduction%20to%20Design%20Tools/Lecture%20notes.pdf)
+   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%204:%20Introduction%20to%20Design%20Process%20and%20Thinking/Lecture%20notes.pdf)
+
+   - [Assignment](https://docs.google.com/document/d/1hx5bBV1V3kXwE5LUJ6LCzTtxtPGEx7fVtgj0fuoB8KQ/edit?usp=sharing)
+
+5. Introduction to Design tools [11th February, 2020]
+
+   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%205:%20Introduction%20to%20Design%20Tools/Lecture%20notes.pdf)
 
    - [Assignment](https://docs.google.com/presentation/d/1rV_Sv7afWwGYFwVuhxZbrNPR3X7Eh96vVlEXrb8QFT0/edit?usp=sharing)
 
-5. Introduction to PHP [21st March, 2020]
+6. Introduction to PHP [21st March, 2020]
 
-   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%205:%20Introduction%20to%20PHP/Lecture%20notes.html)
+   - [Lecture Notes](https://imgiitroorkee.github.io/img-2020-lecture-series/Lecture%206:%20Introduction%20to%20PHP/Lecture%20notes.html)
 
    - [Assignment](https://docs.google.com/document/d/1gOpzJXjw3umbQWlO2QF7QgCdvX1smBH94Z-dE_C-ftM/edit?usp=sharing)
